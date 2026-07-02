@@ -64,7 +64,7 @@ CS Graduate (AI-focused batch, COMSATS University Islamabad) building production
 
 ---
 
-## 🌐 Connect
+##  Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-salam-501b2025b/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/lakhansalam)
@@ -74,32 +74,68 @@ CS Graduate (AI-focused batch, COMSATS University Islamabad) building production
 ---
 
 ##  GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=salamlakhan7&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=salamlakhan7&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=salamlakhan7&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+![](https://github-stats-alpha.vercel.app/api?username=salamlakhan7&cc=000&tc=fff&ic=fff&bc=000)
 
+![](https://streak-stats.demolab.com?user=salamlakhan7&theme=dark&hide_border=false)
 
----
-
-## 🏆 GitHub Trophies
-![](https://github-readme-stats.vercel.app/api?username=salamlakhan7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=salamlakhan7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=salamlakhan7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=salamlakhan7&theme=dark&hide_border=false&layout=compact)
 
 ---
 
-### ✍️ Dev Quote
+
+##  GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=salamlakhan7&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1)
+![](https://github-trophies.vercel.app/?username=salamlakhan7&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+###  Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
 
+---
 
+###  Coding is not just my career — it's my language
+
+```python
+while alive:
+    eat()
+    sleep()
+    code()          # the important one
+    repeat()
+```
+
+```django
+# My daily request cycle
+GET  /motivation     → 200 OK
+POST /problems       → 201 CREATED (and solved)
+DELETE /bugs         → 204 NO CONTENT
+PUT /skills          → 200 UPDATED
+# 404 only when I stop learning
+```
+
+```bash
+$ git log --oneline --author="Abdul Salam"
+a1b2c3d  built RAG pipeline from scratch
+d4e5f6g  shipped DocuMind to production
+g7h8i9j  fixed that CORS bug at 2am
+k1l2m3n  deployed AB Medical on Railway
+o4p5q6r  real-time chat working via WebSockets
+s7t8u9v  vectorshift DAG validation done
+w1x2y3z  another night, another feature shipped
+```
+
+> *"Nights are where the real work happens — no distractions, no noise, just code and focus."*
+> — Abdul Salam
 
 ---
 
-[
+<div align="center">
 
-![](https://visitcount.itsvg.in/api?id=salamlakhan7&icon=0&color=0)
+![](https://visitcount.itsvg.in/api?id=salamlakhan7&icon=5&color=1)
 
-](https://visitcount.itsvg.in)
+**If the code runs, it's not magic. It's just another late night.**
+
+</div>
