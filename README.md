@@ -10,7 +10,7 @@ CS Graduate (AI-focused batch, COMSATS University Islamabad) building production
 
 | Project | Description | Stack | Live |
 |---|---|---|---|
-| [DocuMind](https://github.com/salamlakhan7/DocuMind-AI-Legal-Financial-Document-Analyst) | AI-powered Legal & Financial Document Q&A via RAG | Django, ChromaDB, Sentence Transformers, Groq LLM, PostgreSQL | — |
+| [DocuMind](https://github.com/salamlakhan7/DocuMind-AI-Legal-Financial-Document-Analyst) | AI-powered Legal & Financial Document Q&A via RAG | Django, ChromaDB, Sentence Transformers, Groq LLM, PostgreSQL | [Live](https://web-production-fe6a9.up.railway.app) |
 | [AB Medical Assistance](https://github.com/salamlakhan7/AB-Medical-Assistance) | Full-stack healthcare platform with AI medicine recommendations | Django, DRF, React, JWT, PostgreSQL, Railway, Vercel | [Live](https://ab-medical-assistance.vercel.app) |
 | [Job Connect](https://github.com/salamlakhan7/Job-connect-Full-stack) | Real-time job marketplace — Final Year Project | Django Channels, WebSockets, Redis, Daphne, Tailwind | — |
 | [VectorShift](https://github.com/salamlakhan7/vectorshift-pipeline-builder) | Visual AI pipeline builder with DAG validation | React, ReactFlow, Zustand, FastAPI, Python | — |
