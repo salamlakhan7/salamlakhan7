@@ -66,12 +66,7 @@ CS Graduate (AI-focused batch, COMSATS University Islamabad) building production
 
 ## 🌐 Connect
 
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
-](https://www.linkedin.com/in/abdul-salam-501b2025b/)
-[
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/abdul-salam-501b2025b/)]
 
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 
