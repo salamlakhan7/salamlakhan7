@@ -1,6 +1,7 @@
 # Hi, I'm Abdul Salam 
 
-### Django Backend Developer | RAG • LLMs • REST APIs
+### Backend & Ai system Engineer 
+### Backend Developer(Django , FastApi) |AI • RAG • LLMs • REST APIs
 
 CS Graduate (AI-focused batch, COMSATS University Islamabad) building production Django backends and AI-integrated systems. I work at the intersection of backend engineering and applied AI — RAG pipelines, LLM integration, real-time WebSocket systems, and deployed full-stack applications.
 
